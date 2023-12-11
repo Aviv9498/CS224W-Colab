@@ -1,4 +1,5 @@
 # CS224W-Colab
+
 ## Solutions for Stanford CS224W (Machine Learning with Graphs) Colab, Winter 2021
 
 http://snap.stanford.edu/class/cs224w-2020/
